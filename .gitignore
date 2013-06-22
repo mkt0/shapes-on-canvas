@@ -1,0 +1,7 @@
+sftp-config.json
+
+### OSX ###
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon

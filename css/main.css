@@ -1,0 +1,60 @@
+body {
+	margin-top: 5px;
+	margin-left: 5px;
+}
+
+#main_canvas {
+	border-color: black;
+	border-width: 1px;
+	border-style: solid;
+}
+
+div.status {
+	width: 150px;
+	text-align: center;
+	font-size: 12px;
+}
+
+div#entries {
+	padding-bottom: 10px;
+	border-bottom: 1px solid #EEE;
+	margin-bottom: 10px;
+}
+
+.entry {
+	margin-bottom: 5px;
+	height: 30px;
+}
+
+.entry select {
+	margin-left: 5px;
+}
+
+.entry input {
+	height: 30px;
+	text-align: right;
+	margin-left: 5px;
+}
+
+.entry select {
+	width: 100px;
+}
+
+input.warning {
+	background: #FFDDDD;
+	border-color: #c09853;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+	   -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+	        box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+}
+
+input.worning:focus {
+	border-color: #a47e3c;
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #dbc59e;
+	   -moz-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #dbc59e;
+	        box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 6px #dbc59e;
+}
+
+.hidden {
+	display: none;
+}
