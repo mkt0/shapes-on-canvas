@@ -1,4 +1,10 @@
 sftp-config.json
+css/bootstrap*
+js/bootstrap*
+js/excanvas.js
+js/html5shiv.js
+js/jquery*
+img/
 
 ### OSX ###
 .DS_Store
