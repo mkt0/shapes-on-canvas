@@ -10,7 +10,7 @@ Requirements
 IE10 or Chrome or Firefox or Safari
 
 
-Usage
+Instration
 ================
 
 download repo zip file then extract  
